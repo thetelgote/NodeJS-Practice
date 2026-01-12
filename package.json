@@ -1,0 +1,14 @@
+{
+  "name": "backend-piyush",
+  "version": "1.0.0",
+  "main": "file.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "url": "^0.11.4"
+  }
+}
